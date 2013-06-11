@@ -1,0 +1,3 @@
+{
+	connectionString: "postgres://haraka:haraka@localhost/haraka"
+}
